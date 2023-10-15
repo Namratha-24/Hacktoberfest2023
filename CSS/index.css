@@ -379,7 +379,9 @@ li{
     filter: grayscale(0);
     /* Hilangkan efek grayscale pada gambar saat dihover */
 }
-
+.github:hover{
+    transform: scale(1.2);
+}
 /* Mobile navigation styles */
 .navbar-list.active {
     display: flex;
@@ -727,3 +729,5 @@ h1 small {
      transform: rotate(45deg) rotateX(-385deg) rotateY(385deg);
     }
    }
+
+   
