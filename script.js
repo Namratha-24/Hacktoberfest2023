@@ -5,7 +5,6 @@
 
 
 
-
 // here I added the loader 
 var load =  document.querySelector('.loader');
 setTimeout(() => {
